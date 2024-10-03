@@ -1,0 +1,38 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Thomas Benedetti/Documents/GitHub/labs/MyProjectWorking_ON/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Thomas Benedetti/Documents/GitHub/labs/MyProjectWorking_ON/Content/Mystuff/FirstHuman.uasset",
+				"C:/Users/Thomas Benedetti/Documents/GitHub/labs/MyProjectWorking_ON/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/Thomas Benedetti/Documents/GitHub/labs/MyProjectWorking_ON/Content/Mystuff/Worksheet_Practice.umap",
+				"C:/Users/Thomas Benedetti/Documents/GitHub/labs/MyProjectWorking_ON/Content/MyStuff/MyGameMode.uasset",
+				"C:/Users/Thomas Benedetti/Documents/GitHub/labs/MyProjectWorking_ON/Content/MyStuff/BP_ThirdPersonGameMode1.uasset",
+				"C:/Users/Thomas Benedetti/Documents/GitHub/labs/MyProjectWorking_ON/Content/MyStuff/Untitled.umap",
+				"C:/Users/Thomas Benedetti/Documents/GitHub/labs/MyProjectWorking_ON/Content/MyStuff/BP_MOVING_OBJECT.uasset",
+				"C:/Users/Thomas Benedetti/Documents/GitHub/labs/MyProjectWorking_ON/Content/Mystuff/RollUE5.uasset",
+				"C:/Users/Thomas Benedetti/Documents/GitHub/labs/MyProjectWorking_ON/Content/Mystuff/RollUE5_Montage.uasset",
+				"C:/Users/Thomas Benedetti/Documents/GitHub/labs/MyProjectWorking_ON/Content/MyStuff/BP_GROUND_HAT.uasset",
+				"C:/Users/Thomas Benedetti/Documents/GitHub/labs/MyProjectWorking_ON/Content/MyStuff/Glow.uasset",
+				"C:/Users/Thomas Benedetti/Documents/GitHub/labs/MyProjectWorking_ON/Content/Mystuff/RollUE5__1_.uasset",
+				"C:/Users/Thomas Benedetti/Documents/GitHub/labs/MyProjectWorking_ON/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Thomas Benedetti/Documents/GitHub/labs/MyProjectWorking_ON/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset",
+				"C:/Users/Thomas Benedetti/Documents/GitHub/labs/MyProjectWorking_ON/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/Thomas Benedetti/Documents/GitHub/labs/MyProjectWorking_ON/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PN/2QISIGK5DJNQ05US8O8FXW.uasset",
+				"C:/Users/Thomas Benedetti/Documents/GitHub/labs/MyProjectWorking_ON/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset",
+				"C:/Users/Thomas Benedetti/Documents/GitHub/labs/MyProjectWorking_ON/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
+				"C:/Users/Thomas Benedetti/Documents/GitHub/labs/MyProjectWorking_ON/Content/StarterContent/Props/SM_Lamp_Ceiling_Blueprint.uasset",
+				"C:/Users/Thomas Benedetti/Documents/GitHub/labs/MyProjectWorking_ON/Content/World.umap",
+				"C:/Users/Thomas Benedetti/Documents/GitHub/labs/MyProjectWorking_ON/Content/ThirdPerson/Input/Actions/IA_Roll.uasset",
+				"C:/Users/Thomas Benedetti/Documents/GitHub/labs/MyProjectWorking_ON/Content/Mystuff/RollUE5__1__Montage.uasset",
+				"C:/Users/Thomas Benedetti/Documents/GitHub/labs/MyProjectWorking_ON/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/IX/R7GKVC9PV7G2SQD6ILYPAJ.uasset",
+				"C:/Users/Thomas Benedetti/Documents/GitHub/labs/MyProjectWorking_ON/Content/_GENERATED/ThomasBenedetti/Extrude_0DB46B3F.uasset",
+				"C:/Users/Thomas Benedetti/Documents/GitHub/labs/MyProjectWorking_ON/Content/_GENERATED/ThomasBenedetti/Extrude_312E595E.uasset",
+				"C:/Users/Thomas Benedetti/Documents/GitHub/labs/MyProjectWorking_ON/Content/_GENERATED/ThomasBenedetti/Extrude_90AC9B2D.uasset"
+			]
+		}
+	]
+}
